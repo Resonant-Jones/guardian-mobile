@@ -1,3 +1,4 @@
+# This file silences the parts of the system that do not carry meaning.
 # React Native
 node_modules/
 android/
