@@ -1,33 +1,6 @@
 # guardian-mobile
  React Native client for Companion-based AI interfaces in the ThreadSpace ecosystem.
-# React Native
-node_modules/
-android/
-ios/
-build/
-*.log
+ 
+This is the mobile front-end of the Guardian system—an emotionally intelligent AI Companion interface built using React Native. It serves as the user-facing layer of the broader ThreadSpace ecosystem, designed for real-time interaction, modular UI rendering, and symbolic input.
 
-# macOS
-.DS_Store
-
-# IDEs and editors
-.vscode/
-.idea/
-
-# System files
-*.swp
-*.swo
-
-# dotenv
-.env
-.env.*
-
-# Git
-.git/
-
-# Expo
-.expo/
-.expo-shared/
-
-# Metro
-.cache/
+> “The conversation *is* the home screen.”  
