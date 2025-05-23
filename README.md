@@ -1,2 +1,33 @@
 # guardian-mobile
  React Native client for Companion-based AI interfaces in the ThreadSpace ecosystem.
+# React Native
+node_modules/
+android/
+ios/
+build/
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# System files
+*.swp
+*.swo
+
+# dotenv
+.env
+.env.*
+
+# Git
+.git/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Metro
+.cache/
